@@ -15,4 +15,4 @@
 
 <script src=animated-search-filter.js></script>
 ```
-[View demo](http://playground.deaxon.com/js/animated-search-filter/).
+[View demo ▶️](http://playground.deaxon.com/js/animated-search-filter/).
